@@ -5,7 +5,7 @@ public interface AppConstants {
 		NAME,
 		AUTHOR,
 		PRICE
-	};
+	}
 	
 	String TABLE_DATA_START="<td style='border:2px solid black;text-align: left;'>";
 	String TABLE_DATA_END="</td>";

@@ -1,11 +1,8 @@
 package com.bookstore.iravalputhagam.repository;
 
 import java.util.List;
-
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
-import org.springframework.data.repository.CrudRepository;
-
 import com.bookstore.iravalputhagam.model.Book;
 
 public interface BookRepository extends MongoRepository<Book, String>{
