@@ -1,0 +1,144 @@
+[
+  {
+    "name": "2 States",
+    "author": "Chetan Bhagat",
+    "path": "https://image.ibb.co/diMjgo/twostates.jpg",
+    "price": 80,
+    "genere": "Fiction",
+    "available": true
+  },
+  {
+   
+    "name": "Arthamulla Indhu Madham Bind Volume",
+    "author": "Kannadhasan",
+    "path": "https://image.ibb.co/ifkzE8/arthamullahindumadham.jpg",
+    "price": 342,
+    "genere": "Spiritual",
+    "available": true
+  },
+  {
+    
+    "name": "Idhu Podum",
+    "author": "Balakumaran",
+    "path": "https://image.ibb.co/eJaMST/idhu_podhum.jpg",
+    "price": 125,
+    "genere": "Self-Help",
+    "available": true
+  },
+  {
+    
+    "name": "Ki.Mu.Ki.Pi",
+    "author": "Madhan",
+    "path": "https://image.ibb.co/nnR6u8/kimukipi.jpg",
+    "price": 145,
+    "genere": "Historical",
+    "available": true
+  },
+  {
+   
+    "name": "Mohini Theevu",
+    "author": "Amarar Kalki and SUBA",
+    "path": "https://image.ibb.co/mJBT7T/mohinithevu.jpg",
+    "price": 25,
+    "genere": "Fiction",
+    "available": true
+  },
+  {
+   
+    "name": "One Indian Girl",
+    "author": "Chetan Bhagat",
+    "path": "https://image.ibb.co/kt8mu8/oneindiangirl.jpg",
+    "price": 92,
+    "genere": "Fiction",
+    "available": true
+  },
+  {
+    
+    "name": "Thanneer Desam",
+    "author": "Vairamuthu",
+    "path": "https://image.ibb.co/bQqc1o/thannerdesam.jpg",
+    "price": 125,
+    "genere": "Fiction",
+    "available": true
+  },
+  {
+    
+    "name": "The Complete Novels of Sherlock Holmes",
+    "author": " Arthur Conan Doyle",
+    "path": "https://image.ibb.co/cZ5AMo/sherlockholmes.jpg",
+    "price": 175,
+    "genere": "Crime",
+    "available": true
+  },
+  {
+   
+    "name": "The Power of your Subconscious Mind",
+    "author": "Joseph Murphy",
+    "path": "https://image.ibb.co/bKafnT/powerofsubconsiousmind.jpg",
+    "price": 50,
+    "genere": "Self-Help",
+    "available": true
+  },
+  {
+    
+    "name": "Think and Grow Rich",
+    "author": "Napolean Hill",
+    "path": "https://image.ibb.co/irKUgo/think_growrich.jpg",
+    "price": 69,
+    "genere": "Self-Help",
+    "available": true
+  },
+  {
+    
+    "name": "Udayar 1",
+    "author": "Balakumaran",
+    "path": "https://image.ibb.co/cSLc1o/udayar_1.jpg",
+    "price": 250,
+    "genere": "Historical",
+    "available": true
+  },
+  {
+    "name": "Udayar 2",
+    "author": "Balakumaran",
+    "path": "https://image.ibb.co/mhvXZ8/udayar_2.jpg",
+    "price": 315,
+    "genere": "Historical",
+    "available": true
+  },
+  {
+    
+    "name": "Udayar 3",
+    "author": "Balakumaran",
+    "path": "https://image.ibb.co/nFHPgo/udayar_3.jpg",
+    "price": 275,
+    "genere": "Historical",
+    "available": true
+  },
+  {
+   
+    "name": "Udayar 4",
+    "author": "Balakumaran",
+    "path": "https://image.ibb.co/b5mvnT/udayar_4.jpg",
+    "price": 275,
+    "genere": "Historical",
+    "available": true
+  },
+  {
+    
+    "name": "Udayar 5",
+    "author": "Balakumaran",
+    "path": "https://image.ibb.co/khWjgo/udayar_5.jpg",
+    "price": 255,
+    "genere": "Historical",
+    "available": true
+  },
+  {
+   
+    "name": "Udayar 6",
+    "author": "Balakumaran",
+    "path": "https://image.ibb.co/mk1jgo/udayar_6.jpg",
+    "price": 379,
+    "genere": "Historical",
+    "available": true
+  }
+]
