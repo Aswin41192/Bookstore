@@ -5,8 +5,8 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import com.bookstore.iravalputhagam.Repository.BookRepository;
 import com.bookstore.iravalputhagam.model.Book;
+import com.bookstore.iravalputhagam.repository.BookRepository;
 
 @Component
 public class BookStoreHelper {

@@ -6,12 +6,12 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import com.bookstore.iravalputhagam.Repository.BookRepository;
-import com.bookstore.iravalputhagam.Repository.OrderRepository;
 import com.bookstore.iravalputhagam.constants.AppConstants;
 import com.bookstore.iravalputhagam.constants.AppConstants.ORDER_HEADERS;
 import com.bookstore.iravalputhagam.model.Orders;
 import com.bookstore.iravalputhagam.model.UserDetails;
+import com.bookstore.iravalputhagam.repository.BookRepository;
+import com.bookstore.iravalputhagam.repository.OrderRepository;
 import com.bookstore.iravalputhagam.utility.EmailUtility;
 
 @Component

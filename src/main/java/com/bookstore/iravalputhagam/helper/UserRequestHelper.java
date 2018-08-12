@@ -3,9 +3,9 @@ package com.bookstore.iravalputhagam.helper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import com.bookstore.iravalputhagam.Repository.UserRequestRepository;
 import com.bookstore.iravalputhagam.constants.AppConstants;
 import com.bookstore.iravalputhagam.model.UserRequest;
+import com.bookstore.iravalputhagam.repository.UserRequestRepository;
 import com.bookstore.iravalputhagam.utility.EmailUtility;
 
 @Component

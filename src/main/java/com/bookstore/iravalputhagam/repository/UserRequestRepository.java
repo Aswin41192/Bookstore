@@ -1,4 +1,4 @@
-package com.bookstore.iravalputhagam.Repository;
+package com.bookstore.iravalputhagam.repository;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 
